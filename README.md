@@ -216,19 +216,27 @@ AI-Smart-Diaper-Pod/
 
 ### System Architecture
 
-![Architecture](images/architecture.png)
+<p align="center">
+  <img src="images/architecture.png" width="800">
+</p>
 
 ### Mobile Application
 
-![Mobile App](images/Mobile Application.png)
-
-### PCB Layout
-
-![PCB Design](images/PCB Board.png)
+<p align="center">
+  <img src="images/mobile_application.png" width="800">
+</p>
 
 ### Prototype
 
-![Prototype](images/prototype.png)
+<p align="center">
+  <img src="images/prototype.png" width="800">
+</p>
+
+### PCB Design
+
+<p align="center">
+  <img src="images/PCB_Board.png" width="800">
+</p>
 
 ---
 
